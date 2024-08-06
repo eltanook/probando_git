@@ -1,1 +1,2 @@
-# probando_git
+# probando_gitmkdir MiProyectoJava
+hola mernar, como andas?
